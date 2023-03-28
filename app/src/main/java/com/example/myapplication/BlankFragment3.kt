@@ -55,7 +55,7 @@ class BlankFragment3 : Fragment() {
 
 //        Log.d("Harshit",uri)
         textview =x.findViewById(R.id.text)
-        textview.setText(first)
+        textview.setText(uri)
     }
 
     companion object {
